@@ -1,7 +1,7 @@
 # BME280
 ## Description
 
-- Displays a BME280 sensor's readings.
+Displays a BME280 sensor's readings.
 - The sensor interfaces via both I2C and SPI.
 - You can change the protocol (I2C and SPI), sensor address (I2C only), sea level pressure, delay, and baud rate.
 
